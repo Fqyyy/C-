@@ -1,2 +1,1 @@
-# Crickets-
-Crickets на С#
+# первые проекты на C#
