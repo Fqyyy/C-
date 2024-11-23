@@ -1,1 +1,1 @@
-# первые проекты на C#
+"first project in C#
